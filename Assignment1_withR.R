@@ -1,6 +1,5 @@
 
-setwd("C:/Users/Lenovo/Desktop/ncRNA_Lab/1.Week")
-getwd()
+
 my_data1 <- read.csv("example-DEGs.csv")
 my_data2 <- read.csv("ensembl-IDs.csv")
 data1 <- c()
